@@ -1,7 +1,6 @@
 ## Olá! Eu sou o Anderson Henrique
 
 
-- 🔭 Hoje eu trabalho com Front-end
 - 🌱 Estudando HTML | CSS | JavaScript
 - 💬 Contate-me no email: Andersonhcs97@gmail.com
 
